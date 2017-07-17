@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlertDialogStyle</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="one_style">DialogStyleOne</string>
+    <string name="two_style">DialogStyleTwo</string>
+</resources>
